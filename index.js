@@ -498,7 +498,7 @@ let fetchTorrent = async (query, type = "series") => {
       : type == "movie"
       ? "&Category%5B%5D=2000"
       : ""
-  }&Category%5B%5D=8000&Tracker%5B%5D=bitsearch&cache=false`;
+  }&Category%5B%5D=8000&Tracker%5B%5D=btsow&cache=false`;
 
   return await fetch(url, {
     headers: {
