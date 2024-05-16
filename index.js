@@ -608,11 +608,11 @@ app
 
     //
     var json = {
-      id: "daiki.jackettrdygg2.stream",
+      id: "daiki.jackettrdtl.stream",
       version: "1.0.2",
-      name: "Bitsearch Jackedd",
+      name: "Torrentleech",
       description: "Movie & TV Streams from Bitsearch",
-      logo: "https://ia804607.us.archive.org/13/items/github.com-Jackett-Jackett_-_2022-01-03_07-53-24/__ia_thumb.jpg",
+      logo: "https://invitez.net/uploads/posts/2019-09/1568894826_tleech_logo.jpg",
       resources: [
         {
           name: "stream",
